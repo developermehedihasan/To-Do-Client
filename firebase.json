@@ -1,6 +1,8 @@
 {
   "hosting": {
-    "public": "build",
+
+    "site": "todoman",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
